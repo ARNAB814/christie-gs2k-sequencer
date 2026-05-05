@@ -2,7 +2,7 @@
 
 ## Developers
 
-**Arunav Saha**
+**Arunav Saha** & 
 **Nicole Erickson**
 
 ## Made for
@@ -18,7 +18,3 @@ Free to use by anyone under the MIT License.
 ## Acknowledgements
 
 Christie Digital Systems — GS Series 2K Serial Commands Technical Reference (020-103480-07 Rev. 1)
-
----
-
-© 2026 Arunav Saha & Nicole Erickson
